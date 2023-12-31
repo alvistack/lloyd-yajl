@@ -1,0 +1,5 @@
+libyajl-dev: copyright-without-copyright-notice
+libyajl-dev: initial-upload-closes-no-bugs
+libyajl-dev: odd-static-library-name
+libyajl-dev: pkg-config-unavailable-for-cross-compilation
+libyajl-dev: zero-byte-file-in-doc-directory
