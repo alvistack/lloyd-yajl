@@ -1,0 +1,4 @@
+yajl source: file-without-copyright-information
+yajl source: no-debian-changes
+yajl source: not-binnmuable-any-depends-any
+yajl source: weak-library-dev-dependency

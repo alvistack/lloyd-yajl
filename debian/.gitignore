@@ -1,0 +1,8 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+libyajl-dev
+libyajl2
+tmp
+yajl-tools

@@ -1,0 +1,4 @@
+libyajl2: arch-dependent-file-not-in-arch-specific-directory
+libyajl2: copyright-without-copyright-notice
+libyajl2: initial-upload-closes-no-bugs
+libyajl2: zero-byte-file-in-doc-directory
